@@ -53,13 +53,6 @@ This way, I combine my background in software development with my passion for cy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height: 20px; width: 20px; margin: 4px;" alt="tailwindcss" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/marksec.png" alt="TryHackMe Badge" />
-</div>
-
-<br clear="both" />
 
 <p align="center">Github Stats:</p>
 
