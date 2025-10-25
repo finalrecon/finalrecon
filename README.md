@@ -36,7 +36,6 @@ This way, I combine my background in software development with my passion for cy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height: 20px; width: 20px; margin: 4px;" alt="mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 20px; width: 20px; margin: 4px;" alt="mysql" />
   <img src="https://skillicons.dev/icons?i=cloudflare" style="height: 20px; width: 20px; margin: 4px;" alt="cloudflare" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height: 20px; width: 20px; margin: 4px;" alt="c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 20px; width: 20px; margin: 4px;" alt="cplusplus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height: 20px; width: 20px; margin: 4px;" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height: 20px; width: 20px; margin: 4px;" alt="lua" />
@@ -47,11 +46,21 @@ This way, I combine my background in software development with my passion for cy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height: 20px; width: 20px; margin: 4px;" alt="nextjs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height: 20px; width: 20px; margin: 4px;" alt="sqlite" />
   <img src="https://cdn.simpleicons.org/php/777BB4" style="height: 20px; width: 20px; margin: 4px;" alt="php" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" style="height: 20px; width: 20px; margin: 4px;" alt="bootstrap" />
   <img src="https://skillicons.dev/icons?i=linux" style="height: 20px; width: 20px; margin: 4px;" alt="linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" style="height: 20px; width: 20px; margin: 4px;" alt="jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height: 20px; width: 20px; margin: 4px;" alt="tailwindcss" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" style="height: 20px; width: 20px; margin: 4px; filter: invert(100%);" alt="wireshark" />
+  <img src="https://cdn.simpleicons.org/gnometerminal/4EAA25" style="height: 20px; width: 20px; margin: 4px;" alt="nmap (terminal)" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" style="height: 20px; width: 20px; margin: 4px; filter: invert(100%);" alt="burp suite" />
+  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" style="height: 20px; width: 20px; margin: 4px;" alt="sqlmap" />
+  <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" style="height: 20px; width: 20px; margin: 4px;" alt="maltego" />
+  <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" style="height: 20px; width: 20px; margin: 4px;" alt="hashcat" />
 </div>
+
+
+
+  
+
 
 
 <p align="center">Github Stats:</p>
