@@ -65,8 +65,6 @@ This way, I combine my background in software development with my passion for cy
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=finalrecon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=finalrecon.finalrecon&left_color=black&right_color=black" />
