@@ -63,7 +63,7 @@ This way, I combine my background in software development with my passion for cy
 
 
 
-<p align="center">Github Stats:</p>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=finalrecon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
