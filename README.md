@@ -1,17 +1,17 @@
 <div align="center">
-  <img height="450" src="https://camo.githubusercontent.com/55b20bfba7c8b371984c394ec258209b56757787b3ec02a0b6592195cb47d9a9/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3533666164305f63653037303463616130313734643661613962326238313031613632666137377e6d76322e676966" />
+  <img height="450" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" />
 </div>
 
 <br clear="both" />
 
 <div align="center">
-  <img height="4" src="https://camo.githubusercontent.com/d30a3605dcec142fb1a8ccb6de47d78e32d600fd2d59864d0f99f2ba5cf42d14/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303337392e676966" />
+  <img height="4" src="https://camo.githubusercontent.com/1a81fad21b281a40fbcffbce5eaa5648c9dec905446fd7afb408e1276651bc8f/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303337392e676966" />
 </div>
 
 <p align="center">
 Hey Mark here :)
  
-I started my career as a Backend Developer, building scalable and secure systems with Java, Node.js, and Python. At a large German company, my focus was on developing reliable backend solutions with APIs, databases, and microservice architectures  always with security and efficiency in mind.
+I started my career as a Backend Developer, building scalable and secure systems with Java, Node.js, and Python. At a large German company, my focus was on developing reliable backend solutions with APIs, databases, and microservice architectures always with security and efficiency in mind.
 
 Over time, my focus shifted more and more toward cybersecurity. Today, I specialize in Red Teaming and offensive security, simulating real-world attackers through penetration testing, adversary simulations, and social engineering. I have a strong interest in OSINT and OPSEC, as both play a crucial role in preparing attacks while also protecting one’s own security posture. My goal is to uncover vulnerabilities and help organizations strengthen their defenses.
 
@@ -19,7 +19,7 @@ This way, I combine my background in software development with my passion for cy
 </p>
 
 <div align="center">
-  <img height="4" src="https://camo.githubusercontent.com/d30a3605dcec142fb1a8ccb6de47d78e32d600fd2d59864d0f99f2ba5cf42d14/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303337392e676966" />
+  <img height="4" src="https://camo.githubusercontent.com/1a81fad21b281a40fbcffbce5eaa5648c9dec905446fd7afb408e1276651bc8f/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303337392e676966" />
 </div>
 
 <br clear="both" />
@@ -49,22 +49,12 @@ This way, I combine my background in software development with my passion for cy
   <img src="https://skillicons.dev/icons?i=linux" style="height: 20px; width: 20px; margin: 4px;" alt="linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" style="height: 20px; width: 20px; margin: 4px;" alt="jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height: 20px; width: 20px; margin: 4px;" alt="tailwindcss" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" style="height: 20px; width: 20px; margin: 4px; filter: invert(100%);" alt="wireshark" />
-  <img src="https://cdn.simpleicons.org/gnometerminal/4EAA25" style="height: 20px; width: 20px; margin: 4px;" alt="nmap (terminal)" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" style="height: 20px; width: 20px; margin: 4px; filter: invert(100%);" alt="burp suite" />
-  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" style="height: 20px; width: 20px; margin: 4px;" alt="sqlmap" />
-  <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" style="height: 20px; width: 20px; margin: 4px;" alt="maltego" />
-  <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" style="height: 20px; width: 20px; margin: 4px;" alt="hashcat" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" style="height: 20px; width: 20px; margin: 4px;" alt="wireshark" />
+  <img src="https://cdn.simpleicons.org/gnometerminal/4EAA25" style="height: 20px; width: 20px; margin: 4px;" alt="terminal" />
+  <img src="https://cdn.simpleicons.org/portswigger/FF6633" style="height: 20px; width: 20px; margin: 4px;" alt="burp suite" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" style="height: 20px; width: 20px; margin: 4px;" alt="sqlmap" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" style="height: 20px; width: 20px; margin: 4px;" alt="maltego" />
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" style="height: 20px; width: 20px; margin: 4px;" alt="hashcat" />
 </div>
-
-
-
-  
-
-
-
-
-
-
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=finalrecon.finalrecon&left_color=black&right_color=black" />
