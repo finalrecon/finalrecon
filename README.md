@@ -24,6 +24,14 @@ This way, I combine my background in software development with my passion for cy
 
 <br clear="both" />
 
+<p align="center">
+  <a href="https://tryhackme.com/p/finalrecon">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/finalrecon.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+<br clear="both" />
+
 <p align="center">Most Used Tools</p>
 
 <div align="center">
